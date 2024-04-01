@@ -49,6 +49,7 @@ body {
 .todo {
   color: var(--text-color-primary);
   font-size: 1.5rem;
+  justify-content: space-between;
 }
 
 .todos-container {
